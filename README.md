@@ -1,7 +1,7 @@
 # 🌱 PLANTIFY  
 ### Plant Recommendation System
 
-**SowEasy** adalah aplikasi **rekomendasi tanaman berbasis Machine Learning** yang membantu petani menentukan **tanaman paling optimal untuk ditanam** berdasarkan kondisi tanah dan iklim.  
+**PLANTIFY** adalah aplikasi **rekomendasi tanaman berbasis Machine Learning** yang membantu petani menentukan **tanaman paling optimal untuk ditanam** berdasarkan kondisi tanah dan iklim.  
 Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)** dengan tujuan meningkatkan hasil panen sekaligus menjaga keberlanjutan lingkungan.
 
 ---
@@ -106,4 +106,5 @@ Machine Learning & Web Application Project
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
 
