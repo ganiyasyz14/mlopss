@@ -11,7 +11,7 @@ http://localhost:8501/
 
 ---
 ## 🚜 ML Canvas
-![ML Canvas](ML%20Canvas.png)
+![ML Canvas](ML_CANVAS.png)
 
 ---
 
@@ -115,6 +115,7 @@ Machine Learning & Web Application Project
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
 
 
 
