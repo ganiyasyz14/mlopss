@@ -5,7 +5,7 @@
 Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)** dengan tujuan meningkatkan hasil panen sekaligus menjaga keberlanjutan lingkungan.
 
 ---
-![Tampilan Aplikasi](ML Canvas.png)
+![ML Canvas](ML%20Canvas.png)
 
 ## 🔗 Live Application
 **Streamlit**  
@@ -107,6 +107,7 @@ Machine Learning & Web Application Project
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
 
 
 
