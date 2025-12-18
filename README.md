@@ -1,5 +1,5 @@
-# 🌱 SowEasy  
-### Smart Crop Recommendation System for Precision Farming
+# 🌱 PLANTIFY  
+### Plant Recommendation System
 
 **SowEasy** adalah aplikasi **rekomendasi tanaman berbasis Machine Learning** yang membantu petani menentukan **tanaman paling optimal untuk ditanam** berdasarkan kondisi tanah dan iklim.  
 Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)** dengan tujuan meningkatkan hasil panen sekaligus menjaga keberlanjutan lingkungan.
@@ -30,7 +30,7 @@ Model tersebut digunakan sebagai **referensi utama**, kemudian disesuaikan dan d
 
 ---
 
-## 🚜 Mengapa SowEasy?
+## 🚜 Mengapa PLANTIFY?
 
 Kesalahan dalam pemilihan tanaman dapat menyebabkan:
 
@@ -39,7 +39,7 @@ Kesalahan dalam pemilihan tanaman dapat menyebabkan:
 - Kerusakan tanah  
 - Kerugian ekonomi bagi petani  
 
-💡 **SowEasy hadir sebagai solusi berbasis data** untuk membantu petani mengambil keputusan yang lebih **cerdas, akurat, dan berkelanjutan**.
+💡 **PLANTIFY hadir sebagai solusi berbasis data** untuk membantu petani mengambil keputusan yang lebih **cerdas, akurat, dan berkelanjutan**.
 
 ---
 
@@ -64,7 +64,7 @@ Kesalahan dalam pemilihan tanaman dapat menyebabkan:
 
 ## 📥 Parameter Input
 
-SowEasy memberikan rekomendasi tanaman berdasarkan parameter berikut:
+PLANTIFY memberikan rekomendasi tanaman berdasarkan parameter berikut:
 
 - Nitrogen (N)  
 - Fosfor (P)  
@@ -100,9 +100,10 @@ SowEasy memberikan rekomendasi tanaman berdasarkan parameter berikut:
 
 ## 👩‍💻 Pengembang
 
-**SowEasy – Crop Recommendation System**  
+**PLANTIFY – Plant Recommendation System**  
 Machine Learning & Web Application Project  
 
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
