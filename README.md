@@ -8,10 +8,13 @@ Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)**
 ## 🔗 Local Deployment
 **Local**
 http://localhost:8501/
+
 ---
 ## 🚜 ML Canvas
 ![ML Canvas](ML%20Canvas.png)
+
 ---
+
 ## 🔗 Live Application
 **Streamlit**  
 👉 https://rekomendasi-tanaman-mlops7.streamlit.app/
@@ -112,6 +115,7 @@ Machine Learning & Web Application Project
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
 
 
 
