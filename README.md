@@ -3,10 +3,15 @@
 
 **PLANTIFY** adalah aplikasi **rekomendasi tanaman berbasis Machine Learning** yang membantu petani menentukan **tanaman paling optimal untuk ditanam** berdasarkan kondisi tanah dan iklim.  
 Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)** dengan tujuan meningkatkan hasil panen sekaligus menjaga keberlanjutan lingkungan.
-
 ---
-![ML Canvas](ML%20Canvas.png)
 
+## 🔗 Local Deployment
+**Local**
+http://localhost:8501/
+---
+## 🚜 ML Canvas
+![ML Canvas](ML%20Canvas.png)
+---
 ## 🔗 Live Application
 **Streamlit**  
 👉 https://rekomendasi-tanaman-mlops7.streamlit.app/
@@ -107,6 +112,7 @@ Machine Learning & Web Application Project
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
 
 
 
