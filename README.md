@@ -5,10 +5,11 @@
 Aplikasi ini dirancang untuk mendukung **pertanian presisi (precision farming)** dengan tujuan meningkatkan hasil panen sekaligus menjaga keberlanjutan lingkungan.
 
 ---
+![Tampilan Aplikasi](ML Canvas.png)
 
 ## 🔗 Live Application
-**Local**  
-👉 
+**Streamlit**  
+👉 https://rekomendasi-tanaman-mlops7.streamlit.app/
 
 ---
 
@@ -106,5 +107,6 @@ Machine Learning & Web Application Project
 ---
 
 ⭐ Jika proyek ini bermanfaat, jangan ragu untuk memberikan **star** pada repository ini!
+
 
 
